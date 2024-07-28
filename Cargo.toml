@@ -1,0 +1,9 @@
+[package]
+name = "llama2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rayon = "1.10.0"
+memmap2 = "0.7.1"
+rand = "0.8.5"
